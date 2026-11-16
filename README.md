@@ -7,11 +7,11 @@ A small FiveM resource for WHIP (`whip_core`). It provides two admin commands:
 
 ## Install
 
-1. Put the `whip_car_command` folder in your server's resources directory.
+1. Put the `whip_carcmd` folder in your server's resources directory.
 2. Add this to `server.cfg` after `ensure whip_core`:
 
    ```cfg
-   ensure whip_car_command
+   ensure whip_carcmd
    ```
 
 3. Grant access to the `group.admin` ACE group:
